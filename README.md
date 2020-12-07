@@ -1,6 +1,11 @@
 # designer-desks
 We make these art desks for underprivileged youth in Central Florida. We hope you will take these designs and make art desks for kids in your area!
 
+![Desk render with top open](/renders/View1.jpg)
+
+![Desk render with top closed](/renders/View4.jpg)
+
+
 [Project Photos on Flickr](https://flic.kr/s/aHsmSCwJ4k)
 
 Thanks to [HuntonBrady Architects](http://huntonbrady.com) for the desk design
