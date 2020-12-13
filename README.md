@@ -3,6 +3,9 @@ The Maker Effect Foundation makes these art desks for underprivileged youth in C
 
 We hope you will take these designs and make art desks for kids in your area! If you'd like to contact us to learn more, please email us at [info@makerfx.org](mailto:info@makerfx.org)
 
+Design files are stored on GitHub by version. Make sure to use the download button to get the binary version of the file you need.
+We have an illustrator outline of the desk top for those creating desk art. [(Download link)](https://github.com/makerfx/designer-desks/raw/main/Art-Desktop-outline.ai)
+
 [Project Photos on Flickr](https://flic.kr/s/aHsmSCwJ4k)
 
 Thanks to [HuntonBrady Architects](http://huntonbrady.com) for the desk design
