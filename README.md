@@ -1,4 +1,7 @@
 # Designer Desks
+
+![Photo of Designer Desk with top open](/images/designer-desk-small.jpg)
+
 The Maker Effect Foundation makes art desks for underprivileged youth in Central Florida. We cut them at MakerFX Makerspace on a Forest CNC MakerFab 5x10 CNC Router with a 5hp spindle, then volunteers sand and prep them for delivery. Each desk is stocked with art supplies. In addition, we have local artists who decorate some of the desks before delivery. 
 
 We hope you will take these designs and make art desks for kids in your area! If you'd like to contact us to learn more, please email us at [info@makerfx.org](mailto:info@makerfx.org)
