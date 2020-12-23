@@ -22,5 +22,4 @@ Thanks to Home Depot for discounting the [1/2 birch plywood](https://www.homedep
 Thanks to Boys & Girls Clubs of Central Florida for acting as a distribution partner for the desks
 
 
-![Desk render with top open](/renders/View1.jpg)
-![Desk render with top closed](/renders/View4.jpg)
+![Desks at OSC](/images/desks_at_osc.jpg)
