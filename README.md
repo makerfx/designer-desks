@@ -23,3 +23,5 @@ Thanks to Boys & Girls Clubs of Central Florida for acting as a distribution par
 
 
 ![Desks at OSC](/images/desks_at_osc.jpg)
+
+This project is funded in part by Orange County Government through the Arts & Cultural Affairs Program.
